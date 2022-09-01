@@ -4,9 +4,12 @@
 
 <p align="center">
     <a href="https://tesla-clone-navy-seven.vercel.app/" target="blank">View</a>
+    
 </p>
 
 ### Introducing Tesla Clone 👋
+![148027715-54ed9a87-67b8-4bd2-ae1b-a36b8cb1b1e4](https://user-images.githubusercontent.com/54751699/188024945-fd8e8a2a-eba4-4bb6-81d7-4631e0261b54.png)
+
 
 Tesla Clone is simply a clone of [Original Tesla](https://tesla.com). Check out [Tesla Clone](https://tesla-clone-navy-seven.vercel.app/) 🙌
 
